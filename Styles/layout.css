@@ -37,7 +37,7 @@ header {
 .header_floats {
   width: 49.3%;
   height: 200px;
-  background-color: hsla(48, 100%, 93%, 1);
+  background-color: hsla(180, 100%, 88%, 1);
 }
 
 @media screen and (max-width: 725px) {
@@ -68,7 +68,7 @@ header {
   font-size: 36px;
   font-family: "Nanum Myeongjo", serif;
   background-color: crimson;
-  color: hsla(48, 100%, 93%, 1);
+  color: hsla(180, 100%, 88%, 1);
   padding: 5px;
 }
 #heading1 {
@@ -169,7 +169,7 @@ header {
 }
 .nav_btns:hover {
   color: red;
-  background-color: hsla(48, 100%, 93%, 1);
+  background-color: hsla(180, 100%, 88%, 1);
 }
 
 .hr_line {
@@ -182,14 +182,14 @@ header {
 main {
   box-sizing: border-box;
   width: 100%;
-  background-color: hsla(180, 100%, 83%, 1);
+  background-color: hsla(180, 100%, 88%, 1);
   padding: 12px 0;
 }
 /*------------------------------------------------------------------------------*/
 footer {
   width: 100%;
   min-height: 100px;
-  background-color: hsla(180, 100%, 83%, 1);
+  background-color: hsla(180, 100%, 88%, 1);
   border-radius: 0 0 30px 30px;
   box-sizing: border-box;
   padding: 7px;
