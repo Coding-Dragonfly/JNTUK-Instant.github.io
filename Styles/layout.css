@@ -189,7 +189,7 @@ main {
 footer {
   width: 100%;
   min-height: 100px;
-  background-color: hsla(48, 100%, 93%, 1);
+  background-color: hsla(180, 100%, 69%, 1);
   border-radius: 0 0 30px 30px;
   box-sizing: border-box;
   padding: 7px;
